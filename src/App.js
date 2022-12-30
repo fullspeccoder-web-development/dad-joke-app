@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import JokeList from './JokeList';
+import "./App.css";
+import JokeList from "./JokeList";
 
 function App() {
   return (
